@@ -1,0 +1,13 @@
+User-agent: *
+Allow: /
+
+# Sitemap
+Sitemap: https://ameliaapts.com/sitemap.xml
+
+# Block common unwanted paths
+Disallow: /js/
+Disallow: *.json$
+
+# Allow CSS and images for better indexing
+Allow: /css/
+Allow: /images/

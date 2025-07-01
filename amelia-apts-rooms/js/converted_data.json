@@ -1,0 +1,236 @@
+{
+  "apartments": [
+    {
+      "id": "apt001",
+      "name": "Appartamento Monolocale",
+      "description": "Questo appartamento presenta 1 camera da letto, 1 aria condizionata, 1 bagno con doccia e bidet. L'alloggio include una cucina ben attrezzata con piano cottura, frigorifero, utensili e forno a microonde. L'unità abitativa è dotata di lavatrice, TV a schermo piatto, vista sulla città e cioccolata di benvenuto. L'alloggio dispone di 2 letti.",
+      "image": "images/appartamento-monolocale.jpg",
+      "services": [
+        "Intero appartamento",
+        "Cucina privata",
+        "Bagno privato",
+        "Balcone",
+        "Vista città",
+        "Aria condizionata",
+        "TV a schermo piatto",
+        "WiFi gratis"
+      ],
+      "beds": "1 divano letto, 1 letto matrimoniale",
+      "maxGuests": 3,
+      "gallery": [
+        "images/appartamento-monolocale-1.jpg",
+        "images/appartamento-monolocale-2.jpg",
+        "images/appartamento-monolocale-3.jpg"
+      ]
+    },
+    {
+      "id": "apt002",
+      "name": "Appartamento con Terrazza",
+      "description": "Questo appartamento comprende 1 soggiorno, 1 camera da letto separata e 1 bagno con doccia e set di cortesia. Potrete preparare i pasti nella cucina in loco, fornita di piano cottura, forno a microonde, frigorifero e utensili. Climatizzata e affacciata sul giardino, questa sistemazione comprende un'area salotto ed è completa di TV a schermo piatto, lavatrice e set per la preparazione di tè e caffè. L'alloggio dispone di 2 letti.",
+      "image": "images/appartamento-con-terrazza.jpg",
+      "services": [
+        "Intero appartamento",
+        "Cucina privata",
+        "Bagno privato",
+        "Vista giardino",
+        "Vista cortile interno",
+        "Aria condizionata",
+        "Patio",
+        "TV a schermo piatto",
+        "Terrazza",
+        "WiFi gratis"
+      ],
+      "beds": "Camera: 1 letto matrimoniale, Soggiorno: 1 divano letto",
+      "maxGuests": 3,
+      "gallery": [
+        "images/appartamento-con-terrazza-1.jpg",
+        "images/appartamento-con-terrazza-2.jpg",
+        "images/appartamento-con-terrazza-3.jpg"
+      ]
+    },
+    {
+      "id": "apt003",
+      "name": "Appartamento con 1 Camera da Letto",
+      "description": "Questo appartamento presenta un soggiorno, 1 camera da letto separata e 1 bagno con doccia e set di cortesia. L'alloggio è dotato di cucina completamente attrezzata con fornelli, frigorifero, utensili e forno a microonde. L'unità abitativa include l'aria condizionata, un balcone, una TV a schermo piatto, una lavatrice, un set per la preparazione di tè e caffè, una zona pranzo e una cassaforte. L'alloggio dispone di 2 letti.",
+      "image": "images/appartamento-con-1-camera-da-letto.jpg",
+      "services": [
+        "Intero appartamento",
+        "Cucina privata",
+        "Bagno privato",
+        "Balcone",
+        "Vista città",
+        "Aria condizionata",
+        "TV a schermo piatto",
+        "WiFi gratis"
+      ],
+      "beds": "Camera: 1 letto matrimoniale, Soggiorno: 1 divano letto",
+      "maxGuests": 3,
+      "gallery": [
+        "images/appartamento-con-1-camera-da-letto-1.jpg",
+        "images/appartamento-con-1-camera-da-letto-2.jpg",
+        "images/appartamento-con-1-camera-da-letto-3.jpg"
+      ]
+    },
+    {
+      "id": "apt005",
+      "name": "Appartamento Superior",
+      "description": "Questo appartamento è dotato di 1 soggiorno, 1 camera da letto separata e 1 bagno con doccia e set di cortesia. La cucina è ben attrezzata con piano cottura, frigorifero, utensili e microonde. La sistemazione è dotata di aria condizionata, TV a schermo piatto, lavatrice, set per la preparazione di tè e caffè, area salotto e vista sul giardino. L'alloggio dispone di 2 letti.",
+      "image": "images/appartamento-superior.jpg",
+      "services": [
+        "Intero appartamento",
+        "Cucina privata",
+        "Bagno privato",
+        "Balcone",
+        "Vista giardino",
+        "Vista cortile interno",
+        "Aria condizionata",
+        "TV a schermo piatto",
+        "WiFi gratis"
+      ],
+      "beds": "Camera: 1 letto matrimoniale, Soggiorno: 1 divano letto",
+      "maxGuests": 3,
+      "gallery": [
+        "images/appartamento-superior-1.jpg",
+        "images/appartamento-superior-2.jpg",
+        "images/appartamento-superior-3.jpg"
+      ]
+    }
+  ],
+  "rooms": [
+    {
+      "id": "room004",
+      "name": "Appartamentino su 2 Livelli",
+      "description": "Questo appartamento da 1 soggiorno, 1 camera da letto separata e 1 bagno con doccia a filo pavimento e set di cortesia. Potrete preparare i pasti nella cucina attrezzata con frigorifero, piano cottura, forno a microonde e utensili. Climatizzata e affacciata sul giardino, questa sistemazione comprende un'area salotto ed è completa di TV a schermo piatto, lavatrice e set per la preparazione di tè e caffè. L'alloggio dispone di 2 letti.",
+      "image": "images/appartamentino-su-2-livelli.jpg",
+      "services": [
+        "Intero appartamento",
+        "Cucina privata",
+        "Bagno privato",
+        "Vista giardino",
+        "Vista cortile interno",
+        "Aria condizionata",
+        "TV a schermo piatto",
+        "WiFi gratis"
+      ],
+      "beds": "Camera: 1 letto singolo, Soggiorno: 1 divano letto",
+      "maxGuests": 2,
+      "gallery": [
+        "images/appartamentino-su-2-livelli-1.jpg",
+        "images/appartamentino-su-2-livelli-2.jpg",
+        "images/appartamentino-su-2-livelli-3.jpg"
+      ]
+    },
+    {
+      "id": "room006",
+      "name": "Camera Matrimoniale Deluxe",
+      "description": "Questa camera matrimoniale include un bagno privato con doccia a filo pavimento, bidet, asciugacapelli e set di cortesia. Questa sistemazione matrimoniale dispone di aria condizionata, TV a schermo piatto, macchina da caffè, armadio, cassaforte e vista sul giardino. L'alloggio presenta 1 letto.",
+      "image": "images/camera-matrimoniale-deluxe.jpg",
+      "services": [
+        "Camera",
+        "Vista giardino",
+        "Vista cortile interno",
+        "Bagno privato",
+        "Aria condizionata",
+        "TV a schermo piatto",
+        "Macchina da caffè",
+        "WiFi gratis"
+      ],
+      "beds": "1 letto matrimoniale",
+      "maxGuests": 2,
+      "gallery": [
+        "images/camera-matrimoniale-deluxe-1.jpg",
+        "images/camera-matrimoniale-deluxe-2.jpg",
+        "images/camera-matrimoniale-deluxe-3.jpg"
+      ]
+    },
+    {
+      "id": "room007",
+      "name": "Camera Matrimoniale con Patio",
+      "description": "Questa camera matrimoniale è dotata di bagno privato con doccia a filo pavimento, bidet, asciugacapelli e set di cortesia. Questa sistemazione matrimoniale climatizzata si affaccia sul giardino e include una TV a schermo piatto, una macchina da caffè, un armadio e una cassaforte. L'alloggio offre 1 letto.",
+      "image": "images/camera-matrimoniale-con-patio.jpg",
+      "services": [
+        "Camera",
+        "Vista giardino",
+        "Vista cortile interno",
+        "Patio",
+        "Bagno privato",
+        "Aria condizionata",
+        "TV a schermo piatto",
+        "Macchina da caffè",
+        "WiFi gratis"
+      ],
+      "beds": "1 letto matrimoniale",
+      "maxGuests": 2,
+      "gallery": [
+        "images/camera-matrimoniale-con-patio-1.jpg",
+        "images/camera-matrimoniale-con-patio-2.jpg",
+        "images/camera-matrimoniale-con-patio-3.jpg"
+      ]
+    },
+    {
+      "id": "room008",
+      "name": "Camera Matrimoniale con Vista Giardino",
+      "description": "Questa camera matrimoniale è provvista di bagno privato con doccia a filo pavimento, bidet, asciugacapelli e set di cortesia. La sistemazione matrimoniale è climatizzata e provvista di TV a schermo piatto, macchina da caffè, armadio, cassaforte e vista sul giardino. L'alloggio presenta 1 letto.",
+      "image": "images/camera-matrimoniale-con-vista-giardino.jpg",
+      "services": [
+        "Camera",
+        "Vista giardino",
+        "Vista cortile interno",
+        "Aria condizionata",
+        "Bagno privato",
+        "TV a schermo piatto",
+        "Macchina da caffè",
+        "WiFi gratis"
+      ],
+      "beds": "1 letto matrimoniale",
+      "maxGuests": 2,
+      "gallery": [
+        "images/camera-matrimoniale-con-vista-giardino-1.jpg",
+        "images/camera-matrimoniale-con-vista-giardino-2.jpg",
+        "images/camera-matrimoniale-con-vista-giardino-3.jpg"
+      ]
+    },
+    {
+      "id": "room009",
+      "name": "Camera Matrimoniale Superior",
+      "description": "Questa camera matrimoniale è provvista di bagno privato con doccia a filo pavimento, bidet, asciugacapelli e set di cortesia. La sistemazione matrimoniale dispone di aria condizionata, TV a schermo piatto, armadio, macchina da caffè e cassaforte. L'alloggio presenta 1 letto.",
+      "image": "images/camera-matrimoniale-superior.jpg",
+      "services": [
+        "Camera",
+        "Aria condizionata",
+        "Bagno privato",
+        "TV a schermo piatto",
+        "Macchina da caffè",
+        "WiFi gratis"
+      ],
+      "beds": "1 letto matrimoniale",
+      "maxGuests": 2,
+      "gallery": [
+        "images/camera-matrimoniale-superior-1.jpg",
+        "images/camera-matrimoniale-superior-2.jpg",
+        "images/camera-matrimoniale-superior-3.jpg"
+      ]
+    },
+    {
+      "id": "room010",
+      "name": "Ampia Camera Matrimoniale",
+      "description": "Questa camera matrimoniale è provvista di bagno privato con doccia a filo pavimento, bidet, asciugacapelli e set di cortesia. La sistemazione matrimoniale dispone di aria condizionata, TV a schermo piatto, armadio, macchina da caffè e cassaforte. L'alloggio presenta 1 letto.",
+      "image": "images/ampia-camera-matrimoniale.jpg",
+      "services": [
+        "Camera",
+        "Aria condizionata",
+        "Bagno privato",
+        "TV a schermo piatto",
+        "Macchina da caffè",
+        "WiFi gratis"
+      ],
+      "beds": "1 letto matrimoniale",
+      "maxGuests": 2,
+      "gallery": [
+        "images/ampia-camera-matrimoniale-1.jpg",
+        "images/ampia-camera-matrimoniale-2.jpg",
+        "images/ampia-camera-matrimoniale-3.jpg"
+      ]
+    }
+  ]
+}

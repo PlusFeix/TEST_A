@@ -1,0 +1,25 @@
+{
+  "name": "Amelia Apts & Rooms - Alghero",
+  "short_name": "Amelia Apts",
+  "description": "Appartamenti e camere moderne ad Alghero, Sardegna",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#fdfdfd",
+  "theme_color": "#D4A373",
+  "orientation": "portrait-primary",
+  "icons": [
+    {
+      "src": "images/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "images/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ],
+  "categories": ["travel", "hospitality", "accommodation"],
+  "lang": "it",
+  "dir": "ltr"
+}
